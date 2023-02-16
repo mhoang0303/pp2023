@@ -9,6 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL 
-* Student ID: ID123
+* Student Name: Do Minh Hoang 
+* Student ID: BA11-045
+* Group 1
 
